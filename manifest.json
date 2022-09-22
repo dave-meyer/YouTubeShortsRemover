@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "name": "YouTube Shorts Remover",
   "version": "0.1",
-  "homepage_url": "https://github.com/dave-meyer",
+  "homepage_url": "https://github.com/dave-meyer/YouTubeShortsRemover",
   "icons": {
     "48": "icons/border-48.png"
   },
